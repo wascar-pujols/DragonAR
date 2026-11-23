@@ -1,0 +1,8 @@
+C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/.utmp/RelWithDebInfo/4i4k4q15/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/.utmp/RelWithDebInfo/4i4k4q15/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/.utmp/RelWithDebInfo/4i4k4q15/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/.utmp/RelWithDebInfo/4i4k4q15/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/.utmp/RelWithDebInfo/4i4k4q15/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/.utmp/RelWithDebInfo/4i4k4q15/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/.utmp/RelWithDebInfo/4i4k4q15/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/.utmp/RelWithDebInfo/4i4k4q15/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

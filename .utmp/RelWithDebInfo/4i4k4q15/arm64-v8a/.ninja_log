@@ -1,0 +1,23 @@
+# ninja log v5
+2	2886	8170995911868725	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c8983679897b63a5
+143	2144	8170995904433874	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a63b93e6eddcec2c
+77	2343	8170995905934103	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	691e788b0fb189ac
+61	2352	8170995905944136	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	faeda06b7c8f420
+127	2851	8170995911422886	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	eee0ebb206335e10
+25	2354	8170995906456663	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1de13bd9785e0db4
+2147	2674	8170995909684667	C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4i4k4q15/obj/arm64-v8a/libswappywrapper.so	82363e0bd34525ed
+44	2462	8170995907349873	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	41431eb33175af54
+108	2370	8170995906861705	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6766503a9de7a7f1
+92	2749	8170995910181834	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6c7cada562dd2ba5
+2886	3419	8170995917082445	C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4i4k4q15/obj/arm64-v8a/libgame.so	bfffbf041cbc9a16
+169	510	8171001580669966	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a63b93e6eddcec2c
+510	1416	8171001587968675	C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4i4k4q15/obj/arm64-v8a/libswappywrapper.so	82363e0bd34525ed
+106	2010	8171001595718162	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	faeda06b7c8f420
+78	2039	8171001596289650	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1de13bd9785e0db4
+94	2086	8171001596436080	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6766503a9de7a7f1
+136	2089	8171001596542247	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	691e788b0fb189ac
+33	2112	8171001597048794	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	41431eb33175af54
+152	2218	8171001598193777	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	eee0ebb206335e10
+120	2412	8171001600022943	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6c7cada562dd2ba5
+54	2639	8171001602175694	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c8983679897b63a5
+2639	3080	8171001606011655	C:/Users/pujol/Escritorio/waka/Universidad/15 ciclo (2026)/Videojuegos/Juegos/DragonAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4i4k4q15/obj/arm64-v8a/libgame.so	bfffbf041cbc9a16
